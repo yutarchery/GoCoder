@@ -1,4 +1,4 @@
-package ABC088
+package ABC088C
 
 import (
 	"bufio"

@@ -1,4 +1,4 @@
-package ABC100
+package ABC100C
 
 import (
 	"bufio"
